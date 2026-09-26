@@ -17,13 +17,13 @@ Currently, I'm expanding my expertise in AWS, DevOps, Git, CI/CD, automation, an
 
 **🛠️ Technical Skills**
 Mainframe
-COBOL        ████████████████████
-JCL          ████████████████████
-DB2          ██████████████████
-VSAM         ██████████████████
-CICS         ████████████████
-IMS DB       ██████████████
-Easytrieve   ████████████
+COBOL        
+JCL          
+DB2          
+VSAM         
+CICS         
+IMS DB       
+Easytrieve   
 
 **DevOps & Cloud**
 Git
